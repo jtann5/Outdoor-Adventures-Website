@@ -1,0 +1,40 @@
+/***** general page setup *****/
+.content {
+  text-align: center;
+}
+
+form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+/***** minimal nav css *****/
+#minimal_nav {
+ margin: 0;
+ padding: 5px;
+ height: 65px;
+ top: 0;
+ background: rgba(0, 0, 0, 1);
+}
+
+#nav_title {
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
+  text-align: center;
+  color: white;
+}
+
+#small_logo {
+  height: 60px;
+  width: 100px;
+  float: left;
+}
+
+#space {
+  height: 60px;
+  width: 100px;
+  float: right;
+}
